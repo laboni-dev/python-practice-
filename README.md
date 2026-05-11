@@ -1,4 +1,3 @@
-
 # 🐍 Python Practice by Laboni Dev
 ### Day 1 to Day 20 - AI Developer Journey
 
