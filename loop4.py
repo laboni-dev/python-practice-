@@ -4,3 +4,5 @@ for i in range(2, 101, 2):
     print(i)
 
 print("50 টা জোড় সংখ্যা শেষ 💚")
+
+
