@@ -10,7 +10,7 @@ Hi! আমি লাবনী। Day 1 থেকে Python শিখছি AI De
 3. if_else.py - Even-Odd & Grade checker
 4. errors.py - Debugged 4 errors myself
 
-## ✅ Day 2 Running
+## ✅ Day 2 complete 
 1. loop1.py - For loop 1 to 10
 2. loop2.py - For loop 1 to 100  
 3. loop3.py - Multiplication table machine
