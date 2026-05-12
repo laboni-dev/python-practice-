@@ -13,10 +13,12 @@ Hi! আমি লাবনী। Day 1 থেকে Python শিখছি AI De
 1. loop1.py - For loop 1 to 10
 2. loop2.py - For loop 1 to 100  
 3. loop3.py - Multiplication table machine
-4. loop4.py - Even numbers 2 to 100
+4. loop4.py - Even numbers 2to100
 
-## ✅ Day 3 Started
-1. game.py - Number Guessing Game with while loop
+## ✅ Day 3 Complete
+1. game.py - Number Guessing Game Level 1
+2. game2.py - Number Guessing Game Level 2 with Counter 
+
 
 ## 🎯 Target: Day 20
 Build my first AI project 💚
