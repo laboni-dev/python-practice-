@@ -15,6 +15,9 @@ Hi! আমি লাবনী। Day 1 থেকে Python শিখছি AI De
 3. loop3.py - Multiplication table machine
 4. loop4.py - Even numbers 2 to 100
 
+✅ Day 3 Started
+1. game.py - Number Guessing Game with while loop
+
 ## 🎯 Target: Day 20
 Build my first AI project 💚
 
