@@ -19,6 +19,9 @@ Hi! আমি লাবনী। Day 1 থেকে Python শিখছি AI De
 1. game.py - Number Guessing Game Level 1
 2. game2.py - Number Guessing Game Level 2 with Counter 
 
+## ✅ Day 4 Started
+1. list1.py - Marksheet Analyzer with List + Loop
+
 
 ## 🎯 Target: Day 20
 Build my first AI project 💚
