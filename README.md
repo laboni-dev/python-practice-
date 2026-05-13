@@ -27,6 +27,7 @@ Hi! আমি লাবনী। Day 1 থেকে Python শিখছি AI De
 1. function1.py - My First Function Factory
 2. function2.py - Marksheet App with Input 🏭
 
+
 ## 🎯 Target: Day 20
 Build my first AI project 💚
 
