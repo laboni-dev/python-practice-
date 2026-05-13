@@ -22,7 +22,10 @@ Hi! আমি লাবনী। Day 1 থেকে Python শিখছি AI De
 
 ## ✅ Day 4 Complete
 1. list1.py - Marksheet Analyzer
-2. list2.py - Highest-Lowest Finder with Linear Search
+2. list2.py - Highest-Lowest Finder with Linear Searching
+
+## ✅ Day 5 Level 1 Complete
+1. function1.py - My First Function Factory 🏭
 
 ## 🎯 Target: Day 20
 Build my first AI project 💚
