@@ -23,4 +23,4 @@ if average >= 90:
 elif average >= 80:
     print("Grade: A ⭐ Game Dev")
 else:
-    print("Grade: B 💚 Keep Grinding")
+    print("Grade: B 💚 Keep Grinding") 
