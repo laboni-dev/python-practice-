@@ -19,13 +19,13 @@ Hi! আমি লাবনী। Day 1 থেকে Python শিখছি AI De
 1. game.py - Number Guessing Game Level 1
 2. game2.py - Number Guessing Game Level 2 with Counter 
 
-
 ## ✅ Day 4 Complete
 1. list1.py - Marksheet Analyzer
-2. list2.py - Highest-Lowest Finder with Linear Searching
+2. list2.py - Highest-Lowest Finder with Linear Search
 
-## ✅ Day 5 Level 1 Complete
-1. function1.py - My First Function Factory 🏭
+## ✅ Day 5 Complete 👑
+1. function1.py - My First Function Factory
+2. function2.py - Marksheet App with Input 🏭
 
 ## 🎯 Target: Day 20
 Build my first AI project 💚
