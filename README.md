@@ -31,7 +31,7 @@ Hi! আমি লাবনী। Day 1 থেকে Python শিখছি AI De
 Status: Software Developer Unlocked 👑
 
 
-## ✅ Day 6 Level 1 Complete 💚
+## ✅ Day 6 Level 1 Complete 
 1. dict1.py - Student Profile with Dictionary 💳
 
 ## 🎯 Target: Day 20
