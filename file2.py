@@ -1,47 +1,54 @@
-# লাবনীর Class Topper v3.0 - Database Edition 📄💳👑
-# Append Mode দিয়ে Permanent Storage
 
-print("💳 CLASS TOPPER v3.0 - DATABASE 💳")
-print("=" * 35)
-
-def save_student(name, total, avg):
-    # "a" = Append Mode। পুরানো Data Delete হবে না
+    
+  def save_student(name, total, avg):
     with open("class_result.txt", "a") as file:
         file.write(f"Name: {name} | Total: {total}/500 | Avg: {avg}%\n")
-    print(f"✅ {name} এর Data Save হয়ে গেল!")
+    print("✅ Data Save হয়ে গেল!")
 
 def show_all_results():
-    print("\n📄 সব Student এর Result 📄")
-    print("=" * 35)
     try:
         with open("class_result.txt", "r") as file:
-            data = file.read()
-            if data == "":
-                print("❌ এখনো কেউ Save হয়নি!")
-            else:
-                print(data)
+            print("\n📄 সব Student এর Result 📄")
+            print(file.read())
+    except:
+        print("❌ File এখনো বানানো হয়নি!")
+
+def search_student():  # 👈 while এর উপরে, বাইরে
+    search_name = input("কোন Student খুঁজবে? ")
+    found = False  # 👈 Capital F
+    try:
+        with open("class_result.txt", "r") as file:
+            for line in file:
+                if search_name.lower() in line.lower():
+                    print("✅ পাওয়া গেছে:", line.strip())
+                    found = True
+        if not found:
+            print("❌ এই নামে কেউ নাই Database এ!")
     except:
         print("❌ File এখনো বানানো হয়নি। আগে Save করো!")
 
-# Main Program 👇
-while True:
+while True:  # 👈 সব menu এর ভিতরে থাকবে
     print("\n1. New Student Add করো")
     print("2. সব Result দেখো") 
-    print("3. Exit")
+    print("3. Student Search করো")  # 👈 Add কর
+    print("4. Exit")  # 👈 Add কর
     choice = input("Option বাছো: ")
-
+    
     if choice == "1":
-        name = input("Student নাম: ")
+        name = input("Name: ")
         total = int(input("Total Marks: "))
         avg = float(input("Average: "))
         save_student(name, total, avg)
-        
+    
     elif choice == "2":
         show_all_results()
-        
-    elif choice == "3":
+    
+    elif choice == "3":  # 👈 এটা Add কর
+        search_student()
+    
+    elif choice == "4":  # 👈 এটা Add কর
         print("👋 Database বন্ধ হলো। Data Safe আছে!")
         break
-        
+    
     else:
-        print("❌ 1, 2 বা 3 চাপো!")
+        print("❌ 1, 2, 3 বা 4 চাপো!")
