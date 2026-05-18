@@ -45,7 +45,7 @@ Status: File Handler + Error Handler Unlocked 📄
 Skills: open(), write(), read(), with, try-except
 
 
-Day 8 Complete 🚀 
+## Day 8 Complete 🚀 
 ✅ TXT to CSV Converter 
 ✅ Google Sheets Integration 
 ✅ Bug Fix + App Install 
