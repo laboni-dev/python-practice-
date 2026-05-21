@@ -8,7 +8,7 @@ try:
     # Step 2: csv file বানানো
     with open("result.csv", "w") as csv_file:
         # Header লিখি - Excel এ Column Name হবে
-        csv_file.write("Name,Total Marks,Average %\n")
+  csv_file.write("Name,Total,Average\n") 
 
         # Step 3: প্রতি Line Convert করা
         for line in lines:
