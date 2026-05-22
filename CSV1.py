@@ -34,4 +34,4 @@ try:
     print("✅ result.csv বানানো শেষ! Excel এ Open করো")
 
 except:
-    print("❌ class_result.txt পাওয়া যায়নি। আগে Day 7 এর Data বানা!")
+    print("❌ class_result.txt পাওয়া যায়নি। আগে Day 7 এর Data বানা!") 
