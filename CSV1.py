@@ -19,4 +19,4 @@ try:
     print("✅ result.csv Save হয়ে গেছে!")
 
 except FileNotFoundError:
-    print("❌ class_result.txt পাওয়া যায়নি!")
+    print("❌ class_result.txt পাওয়া যায়নি!") 
