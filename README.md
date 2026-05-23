@@ -51,6 +51,27 @@ Skills: open(), write(), read(), with, try-except
 ✅ Bug Fix + App Install 
 Next: Data Visualization 📈
 
+## ✅ Day 9 Boss Level Complete 🚀📊
+
+1. CSV1.py - TXT to CSV Converter v2.0 
+2. class_result.txt - Multi-Student Database
+3. result.csv - Structured Data Output
+4. Google Sheets - Data Import & Formatting
+
+Status: Data Integration Engineer Unlocked 👑
+Skills: csv module, file parsing, data structuring, Google Sheets, data cleaning
+
+## ✅ Day 10 Boss Level Complete 🏆🥧
+
+1. CSV1.py - TXT to CSV Converter v1.0
+2. pie1.py - Data Visualization v1.0 
+3. result.csv - Updated Database 
+4. pie.png - 4-Slice Pie Chart Output
+
+Status: Data Visualization Engineer Unlocked 👑
+Skills: open(), split(), csv write, matplotlib, plt.pie(), plt.savefig(), debuggincleaning
+
+
 ## 🎯 Target: Day 20
 Build my first AI project 💚
 
