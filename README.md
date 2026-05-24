@@ -84,6 +84,7 @@ Skills: csv.reader(), plt.plot(), plt.bar(), plt.savefig(), matplotlib.use('Agg'
 Bugs Defeated: FileNotFoundError 💀, Black Screen 💀, Duplicate Import 💀, Wrong Folder Mystery 💀
 
 
+
 ## 🎯 Target: Day 20
 Build my first AI project 💚
 
